@@ -1,4 +1,4 @@
-# Single-Blackhole-Puncture
+# Single Initial Data Spacetime Puncture
 
 *Working progress*
 
